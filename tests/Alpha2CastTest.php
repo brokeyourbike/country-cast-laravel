@@ -42,7 +42,7 @@ class Alpha2CastTest extends TestCase
         $order = new AdvancedOrderFixture();
         $order->country_code = 123;
 
-        $this->expectExceptionMessage('The stored value should be not-empty-sting');
+        $this->expectExceptionMessage('The stored value should be sting');
         $this->expectException(\InvalidArgumentException::class);
 
         $order->country_code_alpha2;
