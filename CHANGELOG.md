@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/brokeyourbike/country-casts-laravel/compare/v0.1.0...v0.1.1) (2022-04-06)
+
+
+### Bug Fixes
+
+* allow to use with laravel 9 ([c240928](https://www.github.com/brokeyourbike/country-casts-laravel/commit/c240928bfbe95268e2bfb63010ec682b3955eb60))
+
 ## 0.1.0 (2021-12-21)
 
 
